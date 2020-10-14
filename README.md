@@ -3,11 +3,10 @@
 This is CRUD application for notes.
 
 
-### [View the demo](https://jethwaforam.github.io/nms/) | [Read the tutorial]
 
 ## Author
 
-- [Foram Jethwa]())
+- [Foram Jethwa]()
 
 ## License
 
@@ -22,7 +21,7 @@ Node.js 8.0+
 1. Clone this repo:
 
 
-git clone https://github.com/
+git clone https://github.com/jethwaforam/nms
 
 
 2. Navigate to the root directory and install dependencies:
